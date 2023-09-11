@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    }
+    
+canvas {
+    display: flex;
+    top:0;
+    left:0;
+    }
